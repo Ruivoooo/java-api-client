@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c0e8d07-79b6-4527-8c50-f50aa6b4cae7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ruivoooo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ruivoooo/Projeto-java-desafios-java",
+    "accountId": "2e0c6ea4-c765-4a26-8ff2-c4ed66e40926"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kKcItxkaPT8q11C9DeMfIowfAf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AplicarDesconto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AplicarMedia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cachorro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsultaCotacaoCripto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsultaLivroGoogleBooks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafiosJsonGson.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Diferente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivisaoPrograma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DobroValor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GitHubDesafio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IdadeCarro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ManipularArquivo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ManipularArquivosJava.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Novo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComBusca.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgramaSenhas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VerificarIdade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.br.com.ExerciciosHerancaPolimorfismo.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Carlos/Desktop/JAVA/3 - Lista e coleções array/Cartao&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Programa/2 - Programa java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.screenmatch.excecao" />
+      <recent name="br.com.desafios.java.IdadePessoa" />
+      <recent name="br.com.desafios.java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AplicarDesconto">
+    <configuration name="AplicarDesconto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.desafios.java.AplicarDesconto" />
+      <module name="2 - Programa java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.desafios.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="2 - Programa java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.AplicarDesconto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c0e8d07-79b6-4527-8c50-f50aa6b4cae7" name="Changes" comment="" />
+      <created>1723035634046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723035634046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="br.com.alura.screenmatch.excecao.ErroDeConversaoDeAnoException" package="br.com.alura.screenmatch.excecao" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

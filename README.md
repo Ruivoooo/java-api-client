@@ -1,37 +1,39 @@
-# Projeto de Requisição à API 🌐
+# Projeto de Consumo de API com Java ☕🌐
 
-Este repositório contém um projeto desenvolvido como parte do curso da [Alura](https://www.alura.com.br/), onde realizamos requisições a uma API externa para consumir e exibir dados de forma dinâmica. O projeto foi construído com foco no aprendizado prático de consumo de APIs, manipulação de dados e integração com o frontend/backend.
+Este repositório contém um projeto desenvolvido como parte do curso da [Alura](https://www.alura.com.br/), focado em realizar requisições a uma API externa utilizando Java. Durante o projeto, aprendi a consumir e manipular dados de APIs RESTful, além de trabalhar com JSON e boas práticas de programação.
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-O objetivo deste projeto é:
-- Demonstrar como consumir APIs utilizando [especificar linguagem/framework usado, ex.: JavaScript, Python, Node.js, etc.].
-- Ensinar como trabalhar com dados JSON retornados de uma API.
-- Exibir os dados consumidos de forma organizada e interativa.
+Este projeto foi criado para:
+- Aprender a realizar requisições HTTP utilizando Java.
+- Manipular dados no formato JSON e transformá-los para uso na aplicação.
+- Demonstrar conceitos fundamentais de integração com APIs REST.
+- Consolidar práticas de programação orientada a objetos (POO).
 
 ---
 
 ## 🚀 Funcionalidades
 
-- 🔍 **Requisição à API:** Busca dados em tempo real.
-- 🖥️ **Exibição de Dados:** Apresenta informações de forma organizada na interface.
-- 🔄 **Manipulação de Dados:** Transforma e organiza as respostas da API.
-- ⚙️ **Aprendizado Prático:** Demonstração dos conceitos ensinados no curso.
+- **Requisição HTTP:** Consumo de dados diretamente de uma API REST.
+- **Manipulação de JSON:** Extração e organização dos dados retornados.
+- **Exibição de Informações:** Exibe os dados de maneira amigável no console ou em uma interface (dependendo do projeto).
+- **Código Modular:** Estruturado com princípios de POO.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** [Especifique a linguagem, ex.: JavaScript, Python]
-- **Frameworks/Bibliotecas:** [Especifique, ex.: Axios, Fetch API, Flask]
-- **API Utilizada:** [Nome ou link para a API usada no projeto]
+- **Linguagem:** Java (versão 17).
+- **Biblioteca para Requisições HTTP:** `HttpURLConnection`.
+- **Manipulação de JSON:** `org.json`, `Jackson`.
+- **IDE:** IntelliJ.
 
 ---
 
 ## 📦 Como Executar o Projeto
 
-1. Clone o repositório:
+1. Clone o repositório para sua máquina local:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
